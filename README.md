@@ -18,6 +18,7 @@ color:
 ---
 
 [點我獲得免費robux](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+🤔
 
 ```
 print("Hellow World!")
