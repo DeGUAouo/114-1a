@@ -5,9 +5,13 @@
 裡面會有我的自我介紹，\
 所以這是關於我的網頁。
 
+*總而言之就是一個自我介紹的網頁*\
+*對，是一個網頁*\
+*關於我的網頁*
+
 ## [關於我]
 - 愛亂畫可愛跟抽象的東西
-- 躺平
+- 躺平(你敢相信我寫這篇也在躺)
 - 重度貓癮患者[三度勒戒失敗]
 ## [超能力]
 - 擁有只需閉眼一秒就從早上7點穿越到早上10點的實用能力
@@ -25,3 +29,44 @@
 - 醜魚
 
 <img src="醜魚.png" alt="photo" width="350">
+
+## [我的運作程式碼]
+
+```python
+#-----------------------
+alarm_ringing = True
+sleep = True
+if alarm_ringing:
+    alarm_ringing = False
+    sleep = True
+else:
+    alarm_ringing = True
+    sleep = True
+
+#-----------------------
+hungry = False
+
+if hungry:
+    eat()
+else:
+    print("躺平")
+#-----------------------
+brain = "working"
+in_class = True
+
+if in_class:
+    brain = "error"
+else:
+    brain = "working"
+#-----------------------
+```
+
+|學歷|校名+科系|
+|:--:|:--:|
+|高中|市立楊梅高級中學-資訊科|
+|大學|國立高雄科技大學 資訊管理系(就讀中)|
+
+>太努力啦 竟然滑到這了
+>>第一次遇到這麼想了解我的人
+>>>來! 這是獎勵! 點擊領取!\
+[>>點我獲得超大豪華大禮<<](https://www.youtube.com/watch?v=fC7oUOUEEi4)
