@@ -49,6 +49,7 @@ hungry = False
 
 if hungry:
     eat()
+    hungry = False
 else:
     print("躺平")
 #-----------------------
