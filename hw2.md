@@ -4,10 +4,10 @@
 gantt
     title 甘特圖
     dateFormat  YYYY-MM-DD
-    axisFormat  %d-%m
+    axisFormat  %m月%d號
 
     section 專案階段
-    研讀計畫       :a1, 2025-10-01, 1d
+    研讀計畫       :a1, 2025-01-01, 1d
     任務分配       :a2, after a1, 4d
     取得匯總       :a3, after a1, 17d
     程式開發       :a4, after a2, 70d
@@ -18,3 +18,4 @@ gantt
     系統測試       :a9, after a6, 25d
     使用者訓練     :a10, after a7, 20d
     使用者測試     :a11, after a9, 25d
+
